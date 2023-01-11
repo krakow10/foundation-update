@@ -1,10 +1,12 @@
 upload but don't add to game:
 
+
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
+12116717615 - Got The Blues - Fixed bhopsurf, lighting, broken spawn, and bonusstart/finish
 
 tested, pending upload:
 
