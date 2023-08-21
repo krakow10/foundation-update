@@ -33,6 +33,7 @@ submitted fixes (wipe times):
 13711507548 - Terral - Fixes one skip and two failed skip preventions
 14046381764 - Guffaw - Fix triggerskip
 14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
+14267598225 - Soaatana - Fixed some lightposts being collidable when they should have been non-collide and fixed the end of the map where you can bounce on blocks skipping the intended ending.
 
 tested, pending upload:
 
