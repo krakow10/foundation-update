@@ -17,6 +17,7 @@ submitted fixes (no wipe):
 12947510568 - Cyberspace - Stage 4 ramp spine fix (Duckadvice)
 15204456967 - Disparity - Fix potential softlock on Stage 7
 15246995099 - Sinsane - Bonus is zoned. Nerfed nightmare upwards spin at end of bonus to ensure possibility.
+7789455753 - 4 AM - Added buttons to reset antiresurfs at the endzone
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
