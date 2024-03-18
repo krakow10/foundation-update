@@ -2,7 +2,6 @@ backlog:
 11205614737 - Proximute unfinished
 
 frontlog:
-16466575161 - innokia (map accepted but never added from last aor, map is completed and ready to be added)
 10447209197
 10532128449 - copylocked
 12373332845 - go through parts - bonus is broken: missing spawns
