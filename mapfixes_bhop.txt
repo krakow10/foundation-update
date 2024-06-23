@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+18180295257 - Aztec (Surf) - Had a weird spawn with weird movement due to placement in the void, probably fixed now?
 
 add map data:
 
