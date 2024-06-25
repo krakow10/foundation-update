@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+18201680611 made by Roblox_Leo2510 - add Rainbow 2 as a bonus
 
 add map data:
 
