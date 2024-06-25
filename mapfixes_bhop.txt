@@ -26,7 +26,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-
+18208540774 bhop_pasture fixed by Roblox_Leo2510 - fix teleport door being hard to enter
 add map data:
 
 tested, pending upload & add map data:
