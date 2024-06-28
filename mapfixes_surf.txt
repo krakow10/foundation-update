@@ -14,6 +14,8 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 17722224669 - Aztec -  moved closer to origin and zoned bonus
+17762560611 - Ace - fixed spawn in ground & ramps, improved visuals, credited original mapper
+17760353149 - Frost Nova - smoother surfs, light, & enclosed end
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
@@ -24,6 +26,10 @@ tested, pending upload & add map data:
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+17762556893 - Discord - rampfix
+17812037822 - Trying Again - fixed start & blocked holes in the map
+17760351482 - Glass II - ramps
+17760344146 - Reverse - fixed spawn & lighting
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
