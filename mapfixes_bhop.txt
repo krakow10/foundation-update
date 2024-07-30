@@ -29,6 +29,8 @@ submitted fixes (no wipe):
 18208540774 bhop_pasture fixed by Roblox_Leo2510 - fix teleport door being hard to enter
 18201680611 made by Roblox_Leo2510 - add Rainbow 2 as a bonus
 18627459399 bhop_failure fixed by Roblox_Leo2510 - add bonus
+18724796844 - Ice - Fix script errors by commenting out call to change a since removed Lighting property
+18724867816 - Stref Amazon - Fix script errors by adding missing meshes
 
 add map data:
 
