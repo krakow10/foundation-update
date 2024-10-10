@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076284379 - Regret - fixed oob and lighting. wipe all times.
+121170303581252 - Venust - fixed oobs, wipe faste. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 
 submitted fixes (manual time deletion, list times needing deletion):
 15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
